@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/title.png</file>
+        <file>images/shulan.png</file>
+        <file>images/me.png</file>
+        <file>images/kenan.png</file>
+        <file>images/baoman.png</file>
+        <file>images/biaoqing.png</file>
+
+        <file>images/xiaoku.png</file>
+        <file>images/huaixiao.png</file>
+        <file>images/touxiao.png</file>
+        <file>images/qiefei.png</file>
+        <file>images/shuai.png</file>
+        <file>images/keai.png</file>
+        <file>images/ku.png</file>
+        <file>images/yumen.png</file>
+
+        <file>images/wanglihong.png</file>
+        <file>images/zhoujielun.png</file>
+        <file>images/lindan.png</file>
+        <file>images/liuyifei.png</file>
+        <file>images/maomao.png</file>
+        <file>images/huge.png</file>
+    </qresource>
+</RCC>
